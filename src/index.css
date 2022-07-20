@@ -1,0 +1,31 @@
+@font-face{
+  font-family:"HCo Gotham SSm";
+  src:url("./fonts/HCo_GothamSSm_Web/GothamSSm-Book_Web.woff2") format("woff2"),
+  url("./fonts/HCo_GothamSSm_Web/GothamSSm-Book_Web.woff") format("woff");
+  font-weight:400;
+  font-style:normal
+}
+@font-face{
+  font-family:"HCo Gotham SSm";
+  src:url("./fonts/HCo_GothamSSm_Web/GothamSSm-Medium_Web.woff2") format("woff2"),url("./fonts/HCo_GothamSSm_Web/GothamSSm-Medium_Web.woff") format("woff");
+  font-weight:500;
+  font-style:normal
+}
+
+@font-face{
+  font-family:"HCo Gotham SSm";
+  src:url("./fonts/HCo_GothamSSm_Web/GothamSSm-Black_Web.woff2") format("woff2"),url("./fonts/HCo_GothamSSm_Web/GothamSSm-Black_Web.woff") format("woff");
+  font-weight:800;font-style:normal
+}
+
+@font-face{
+  font-family:"Amithen";
+  src:url("./fonts/Amithen/font.woff2") format("woff2"),url("./fonts/Amithen/font.woff") format("woff");
+  font-weight:800;font-style:normal
+}
+
+body{
+  font-family: "HCo Gotham SSm", 'sans-serif';
+  margin: 0;
+  font-weight: 400;
+}
