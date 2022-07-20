@@ -1,6 +1,4 @@
 # Manage AddressBook - Bequest
-Created by Andrew John
-
 Tech Stack: [React], [Typescript], [Redux], [ReduxToolkit], [MaterialUI]
 Features: Modal, DataGrid, Validation, Autocomplete, Test, Notification, debounce 
 
