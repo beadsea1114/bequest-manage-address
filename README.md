@@ -1,5 +1,5 @@
 # Manage AddressBook - Bequest
-Created by <Andrew John>
+Created by Andrew John
 
 Tech Stack: [React], [Typescript], [Redux], [ReduxToolkit], [MaterialUI]
 Features: Modal, DataGrid, Validation, Autocomplete, Test, Notification, debounce 
@@ -37,6 +37,9 @@ The messages to show some action was successed or failed will be appear.
 I created two test scripts. App.test.tsx and alertSlice.test.tsx
 I think that these two files can show my experience about the unit test with react test library(jest).
 Other test scripts will be similar, but the input params and return values will be different.
+
+### `npm install`
+Install npm modules
 
 ### `npm start`
 
